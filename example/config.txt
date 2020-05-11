@@ -1,0 +1,2 @@
+Prefix plugins/WattsStrogatz/example/
+Plugin WattsStrogatz inputfile parameters.txt outputfile network.gml
