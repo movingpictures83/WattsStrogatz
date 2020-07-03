@@ -2,8 +2,8 @@
 # Language: Python
 # Input: TXT
 # Output: GML
-# Tested with: PluMA 1.0, Python 3.6
-# Dependency: Networkx 2.4
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: networkx==2.2
 
 PluMA plugin that uses the Watts-Strogatz algorithm (Watts and Strogatz, 1998) to compute a random network of a user-specified number of nodes, the number of nearest neighbors (note: uses a ring topology) and a probability for rewiring each edges.
 
